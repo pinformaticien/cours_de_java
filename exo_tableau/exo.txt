@@ -1,0 +1,5 @@
+1.Créer un tableau de 10 produits.
+2.Créer un tableau pour les prix des 10 produits.
+3.Afficher les produits et leurs prix.
+4.Trier les produits par ordre croissant.
+5.Transférez les deux tableaux ci-dessus dans un tableau à deux dimensions.
