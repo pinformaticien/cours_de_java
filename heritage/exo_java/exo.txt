@@ -1,0 +1,12 @@
+Personne:
+	attributs:
+		nom, prenom, age
+	
+Etudiant:
+	attributs:
+		mat, classe
+
+
+Enseignant:
+	attributs:
+		matiere, taux horaire, nb heures, salaire
